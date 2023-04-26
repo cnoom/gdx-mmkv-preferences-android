@@ -1,0 +1,1 @@
+# gdx-mmkv-preferences-android
