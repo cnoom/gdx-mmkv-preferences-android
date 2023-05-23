@@ -62,7 +62,7 @@ public class MMKVPreferences implements Preferences {
 
     @Override
     public boolean getBoolean(String key) {
-        return false;
+        return mmkv.getBoolean(key,false);
     }
 
     @Override
